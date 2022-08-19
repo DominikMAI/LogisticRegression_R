@@ -5,7 +5,7 @@ description: |
   Szacowanie prawdopodobieństwa wystąpienia szkody z wykorzystaniem modelu logitowego
 author:
 name: Dominik Mielczarek
-affiliation: N42-12
+
 
 date: "07 lipiec 2022"
 
